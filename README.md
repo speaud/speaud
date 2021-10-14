@@ -1,5 +1,18 @@
 ### Hello World <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Joshua
 
+##### ⚡ Languages
+
+![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+##### ⚡ Databases
+
+![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 <!--
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speaud&label=Profile%20views&color=0e75b6&style=flat" alt="speaud" /> </p>
