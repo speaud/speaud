@@ -1,6 +1,6 @@
 ### Hello World <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Joshua
 
-##### ⚡ Day-to-day Languages
+##### Day-to-day Languages
 
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-##### ⚡ Databases
+##### Databases
 
 ![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
