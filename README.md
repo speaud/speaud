@@ -15,6 +15,11 @@
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
+
+##### Links
+* [Personal Website](http://joshuamummert.com/)
+* [CodePen](https://codepen.io/speaud)
+
 <!--
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speaud&label=Profile%20views&color=0e75b6&style=flat" alt="speaud" /> </p>
