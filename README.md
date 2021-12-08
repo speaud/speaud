@@ -2,7 +2,7 @@
 
 ##### Day-to-day Languages
 1. ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-1. ![](https://img.shields.io/badge/-bash-black?style=flat-square&logo=shell)
+1. ![](https://img.shields.io/badge/-bash-black?style=flat-square&logo=shell) (Yes! It's a language!!) 
 1. ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 1. ![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
