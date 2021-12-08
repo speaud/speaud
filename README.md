@@ -20,6 +20,10 @@
 * [Personal Website](http://joshuamummert.com/)
 * [CodePen](https://codepen.io/speaud)
 
+##### Dev-world Interests Nowadays (changes periodically)
+* Time series forecasting
+    * Determining optiomal p,d,q parameters for ARIMA models
+
 <!--
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speaud&label=Profile%20views&color=0e75b6&style=flat" alt="speaud" /> </p>
