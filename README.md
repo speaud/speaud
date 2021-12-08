@@ -21,9 +21,9 @@
 1. [CodePen](https://codepen.io/speaud)
 2. [DockerHub](https://hub.docker.com/u/spudworksdevshop)
 
-##### Dev-world Interests Nowadays (changes periodically)
+##### 🌱 I’m currently learning
 1. Time series forecasting
-    1. Determining optiomal p,d,q parameters for ARIMA models
+    1. Determining optiomal p,d,q parameters for ARIMA models (seasonal and nonseasonal) 
 
 <!--
 
