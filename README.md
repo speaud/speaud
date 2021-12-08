@@ -17,12 +17,12 @@
 ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 
 ##### Links
-* [Personal Website](http://joshuamummert.com/)
-* [CodePen](https://codepen.io/speaud)
+1. [Personal Website](http://joshuamummert.com/)
+1. [CodePen](https://codepen.io/speaud)
 
 ##### Dev-world Interests Nowadays (changes periodically)
-* Time series forecasting
-    * Determining optiomal p,d,q parameters for ARIMA models
+1. Time series forecasting
+    1. Determining optiomal p,d,q parameters for ARIMA models
 
 <!--
 
