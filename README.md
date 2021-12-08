@@ -6,7 +6,7 @@
 1. ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 1. ![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+(![](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js))
 
 ##### Databases
 
