@@ -23,7 +23,7 @@
 ##### 🌱 I’m currently learning
 1. Time series forecasting
     1. Determining optiomal p,d,q parameters for ARIMA models (seasonal and nonseasonal)
-1. Why HashiCorp is taking over
+1. Why and how HashiCorp is taking over
     1. Vault
     2. Terraform
 
