@@ -16,9 +16,10 @@
 ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 
 ##### Links
-1. [Personal Website](http://joshuamummert.com/)
-1. [CodePen](https://codepen.io/speaud)
-2. [DockerHub](https://hub.docker.com/u/spudworksdevshop)
+1. [GitHub Gists](https://gist.github.com/speaud)
+2. [Personal Website](http://joshuamummert.com/)
+3. [CodePen](https://codepen.io/speaud)
+4. [DockerHub](https://hub.docker.com/u/spudworksdevshop)
 
 ##### 🌱 I’m currently learning
 1. Time series forecasting
