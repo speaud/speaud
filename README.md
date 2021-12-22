@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 
-##### Links
+##### Links (other than this page)
 1. [GitHub Gists](https://gist.github.com/speaud)
 2. [Personal Website](http://joshuamummert.com/)
 3. [CodePen](https://codepen.io/speaud)
