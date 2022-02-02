@@ -26,7 +26,7 @@
     1. Determining optiomal p,d,q parameters for ARIMA models (seasonal and nonseasonal)
 1. Using Go on the data enginnering/science side 🤕
     1. Replacing Juypter Python notebooks with [gophernotes](https://github.com/gopherdata/gophernotes)
-    1. Swaping out Pandas for [gota](https://github.com/go-gota/gota)
+    1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
 
 ##### 📫 How to reach me
 1. Email
