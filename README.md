@@ -29,6 +29,7 @@
 1. Using Go on the data enginnering/science side 🤕
     1. Replacing Juypter Python notebooks with [gophernotes](https://github.com/gopherdata/gophernotes)
     1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
+1. The [CNCF trail map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png), after #4
 
 ##### 📫 How to reach me
 1. Email
