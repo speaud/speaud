@@ -31,13 +31,13 @@
     1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
 1. The [CNCF trail map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png), after #4
 
-##### 📫 How to reach me
-1. Email
-
 ##### ⚡ Fun fact
 1. City dweller yet avid outdoors person
 
 <!--
+
+##### 📫 How to reach me
+1. Email
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speaud&label=Profile%20views&color=0e75b6&style=flat" alt="speaud" /> </p>
 
