@@ -1,4 +1,4 @@
-### Hello World <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hello World :wave:
 
 ##### Day-to-day Languages
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
