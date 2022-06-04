@@ -5,13 +5,12 @@
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/-bash-black?style=flat-square&logo=shell)
 
-###### In the Wheelhouse Languages
+###### Other Languages in the Wheelhouse
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ##### Databases
-
 ![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
