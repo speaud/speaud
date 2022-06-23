@@ -12,13 +12,13 @@
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 
-##### Links (other than this page)
+##### Some Links
 1. [GitHub Gists](https://gist.github.com/speaud)
 2. [Personal Website](http://joshuamummert.com/)
 3. [CodePen](https://codepen.io/speaud)
 4. [DockerHub](https://hub.docker.com/u/spudworksdevshop)
 
-##### 🌱 I’m currently learning for fun
+##### 🌱 Currently Playing With
 1. Time series forecasting
     1. Determining optiomal p,d,q parameters for ARIMA models (seasonal and nonseasonal)
 1. Using Go on the data enginnering/science side 🤕
@@ -26,7 +26,7 @@
     1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
 1. The [CNCF trail map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png), after #4
 
-##### ⚡ Fun fact
+##### ⚡ Fun Fact
 1. City dweller yet avid outdoors person
 
 <!--
