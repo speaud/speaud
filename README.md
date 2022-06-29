@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
+![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
 ##### Some Links
 1. [GitHub Gists](https://gist.github.com/speaud)
