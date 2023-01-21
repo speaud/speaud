@@ -23,7 +23,7 @@
 1. Time series forecasting
     1. Determining optiomal p,d,q parameters for ARIMA models (seasonal and nonseasonal)
 1. Using Go on the data enginnering/science side 🤕
-    1. Replacing Juypter Python notebooks with [gophernotes](https://github.com/gopherdata/gophernotes)
+    1. Playing with [gophernotes](https://github.com/gopherdata/gophernotes) in place of Juypter Python notebooks
     1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
 1. The [CNCF trail map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png), after #4
 
