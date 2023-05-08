@@ -1,6 +1,6 @@
 ### Hello World :wave:
 
-##### Languages & Whatnot
+##### Languages & Tech-Whatnots
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/-bash-black?style=flat-square&logo=shell)
