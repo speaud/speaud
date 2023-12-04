@@ -27,8 +27,14 @@
     1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
 1. The [CNCF trail map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png), after #4
 
-##### ⚡ Fun Fact
-1. City dweller yet avid outdoors person
+##### ⚡ Fun Facts
+1. Avid traveler. For realz. As in, every other week at min!
+2. No social media here! Just not for me but I get it, I think!
+3. No video games here but they do look super cool!
+
+##### ⚡ Light-hearted Rant
+
+"Peoples is peoples" - The Muppets Take Manhattan
 
 <!--
 
