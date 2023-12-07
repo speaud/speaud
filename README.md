@@ -1,6 +1,10 @@
-### Hello World :wave:
+### :wave: Hello World!
 
-##### Languages & Tech-Whatnots
+##### 📫 How to reach me
+
+Email
+
+##### 🛠️ Languages
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/-bash-black?style=flat-square&logo=shell)
@@ -13,7 +17,7 @@
 ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
-##### Some Links
+##### 🖇️ Links
 1. [GitHub Gists](https://gist.github.com/speaud)
 2. [Personal Website](http://joshuamummert.com/)
 3. [CodePen](https://codepen.io/speaud)
@@ -27,16 +31,12 @@
     1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
 1. The [CNCF trail map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png), after #4
 
+<!--
+
 ##### ⚡ Fun Facts
 1. Avid traveler. For realz. As in, every other week at min!
-2. No social media here! Just not for me but I get it, I think!
+2. I don't partake in social media
 3. No video games here but they do look super cool!
-
-##### ⚡ Light-hearted Rant
-
-"Peoples is peoples" - The Muppets Take Manhattan
-
-<!--
 
 ##### 📫 How to reach me
 1. Email
