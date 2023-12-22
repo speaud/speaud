@@ -2,7 +2,7 @@
 
 ##### 📫 How to reach me
 
-Probably the [contact form on my personal website](https://www.joshuamummert.com)
+Use the [contact form on my personal website](https://www.joshuamummert.com)
 
 ##### 🛠️ Languages
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
