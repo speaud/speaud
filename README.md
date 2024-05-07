@@ -1,8 +1,12 @@
 ### :wave: Hello World!
 
-##### 📫 How to reach me
+##### ⚡ About
 
-Use the [contact form on my personal website](https://www.joshuamummert.com)
+Born and rasied in the Delaware Valley, Philly. Big fan of the outdoors and community advocacy. Also, a former NCAA/FILA All-American and Academic All-American. I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people and aim to continue to do so in the future.
+
+##### 📫 Contact
+
+Please use the [contact form on my personal website](https://www.joshuamummertstern.com) then I'll be sure to follow up!
 
 ##### 🛠️ Languages
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
