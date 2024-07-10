@@ -1,10 +1,6 @@
-### :wave: Hello World!
-
 ##### ⚡ About
 
-:wave: Hello World!
-
-Based out of Philly. Been in this world for over a decade or so now. Couldn't ask for much more. I mean, we basically play with Play-doh all day! I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
+:wave: Hello World! Based out of Philly. Been in this world for over a decade or so now. Couldn't ask for much more. I mean, we basically play with Play-doh all day! I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
 
 ##### ⚡ Fun Facts
 1. Former NCAA and FILA All-American and Academic All-American in Men's Wrestling
