@@ -2,11 +2,18 @@
 
 ##### ⚡ About
 
-Born and rasied in the Delaware Valley, Philly. Big fan of the outdoors and community advocacy. Also, a former NCAA/FILA All-American and Academic All-American. I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. I aim to build upon those experiences while continuously improving every day, in some way. Good things!
+:wave: Hello World!
+
+Based out of Philly. Been in this world for over a decade or so now. Couldn't ask for much more. I mean, we basically play with Play-doh all day! I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
+
+##### ⚡ Fun Facts
+1. Former NCAA and FILA All-American and Academic All-American in Men's Wrestling
+2. Big fan of fly-fishing
+3. Member of the Pennsylvania Academy of the Fine Arts leadership board
 
 ##### 📫 Contact
 
-Please use the [contact form on my personal website](https://www.joshuamummertstern.com) then I'll be sure to follow up!
+No social media accounts but please use the [contact form on my personal website](https://www.joshuamummertstern.com) then I'll be sure to follow up!
 
 ##### 🛠️ Languages
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
