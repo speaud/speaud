@@ -5,20 +5,20 @@
 
 ![streakStats](https://github-readme-streak-stats.herokuapp.com/?user=speaud&show_icons=true&locale=en&theme=radical)
 
-##### ⚡ About
+## ⚡ About
 
-:wave: Hello World! Based out of Philly. Been in this world for over a decade or so now. Couldn't ask for much more. I mean, we basically play with Play-doh all day! I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
+:wave: Hello World, thanks for stopping by! Based out of Philly here. I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
 
-##### ⚡ Fun Facts
+## ⚡ Fun Facts
 1. Former NCAA and FILA All-American and Academic All-American in Men's Wrestling
 2. Big fan of fly-fishing
 3. Member of the Pennsylvania Academy of the Fine Arts leadership board
 
-##### 📫 Contact
+## 📫 Contact
 
 No social media accounts but please use the [contact form on my personal website](https://www.joshuamummertstern.com) then I'll be sure to follow up!
 
-##### 🛠️ Languages
+## 🛠️ Languages
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/-bash-black?style=flat-square&logo=shell)
@@ -31,14 +31,14 @@ No social media accounts but please use the [contact form on my personal website
 ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
-##### 🖇️ Links
+## 🖇️ Links
 1. [GitHub Gists](https://gist.github.com/speaud)
 2. [Personal Website](http://joshuamummert.com/)
 3. [Code for Philly](https://codeforphilly.org/projects/philadelphia_lawyers_for_social_equity_-_record_expungement)
 4. [CodePen](https://codepen.io/speaud)
 5. [DockerHub](https://hub.docker.com/u/spudworksdevshop)
 
-##### 🌱 Currently Playing With
+## 🌱 Currently Playing With
 1. Topology as code, Docs as Code, and the automation of the respective processes such as converting TypeScript models to UML markup
 2. Time series forecasting
     1. Determining optiomal p,d,q parameters for ARIMA models (seasonal and nonseasonal)
