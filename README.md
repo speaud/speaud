@@ -1,3 +1,10 @@
+<!--
+![langStats](https://github-readme-stats.vercel.app/api/top-langs?username=speaud&show_icons=true&locale=en&layout=compact)
+![commitStats](https://github-readme-stats.vercel.app/api?username=speaud&show_icons=true&locale=en)
+-->
+
+![streakStats](https://github-readme-streak-stats.herokuapp.com/?user=speaud&show_icons=true&locale=en)
+
 ##### ⚡ About
 
 :wave: Hello World! Based out of Philly. Been in this world for over a decade or so now. Couldn't ask for much more. I mean, we basically play with Play-doh all day! I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
@@ -38,7 +45,6 @@ No social media accounts but please use the [contact form on my personal website
 1. Using Go on the data enginnering/science side 🤕
     1. Playing with [gophernotes](https://github.com/gopherdata/gophernotes) in place of Juypter Python notebooks
     1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
-1. The [CNCF trail map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png), after #4
 
 <!--
 
