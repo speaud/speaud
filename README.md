@@ -3,7 +3,7 @@
 ![commitStats](https://github-readme-stats.vercel.app/api?username=speaud&show_icons=true&locale=en)
 -->
 
-![streakStats](https://github-readme-streak-stats.herokuapp.com/?user=speaud&show_icons=true&locale=en)
+![streakStats](https://github-readme-streak-stats.herokuapp.com/?user=speaud&show_icons=true&locale=en&theme=radical)
 
 ##### ⚡ About
 
