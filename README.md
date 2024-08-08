@@ -1,22 +1,50 @@
 <!--
 ![langStats](https://github-readme-stats.vercel.app/api/top-langs?username=speaud&show_icons=true&locale=en&layout=compact)
 ![commitStats](https://github-readme-stats.vercel.app/api?username=speaud&show_icons=true&locale=en)
+
+thanks to https://github.com/denvercoder1/github-readme-streak-stats
+@denvercoder1
+
+https://streak-stats.demolab.com/demo/
+https://github-readme-streak-stats.herokuapp.com/demo/
+
+thanks to https://github.com/anuraghazra/github-readme-stats
+@anuraghazra
+
+if widget "broken" see https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#important-notices-
+
+---
+
+
+
 -->
 
 ![streakStats](https://github-readme-streak-stats.herokuapp.com/?user=speaud&show_icons=true&locale=en&theme=radical)
 
-## ⚡ About
+## 👋 About
 
-:wave: Hello World, thanks for stopping by! Based out of Philly here. I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
+Hello World, thanks for stopping by! Based out of Philly here. I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
 
-## ⚡ Fun Facts
+## 🥇 Pinned Repos
+
+<a href="https://github.com/speaud/vanilla-node-http-server">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=vanilla-node-http-server&theme=radical" />
+</a>
+<a href="https://github.com/speaud/jupyter-runtime-template">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=jupyter-runtime-template&theme=radical" />
+</a>
+<a href="https://github.com/speaud/go-runtime-env">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=go-runtime-env&theme=radical" />
+</a>
+
+## 🥳 Fun Facts
 1. Former NCAA and FILA All-American and Academic All-American in Men's Wrestling
 2. Big fan of fly-fishing
 3. Member of the Pennsylvania Academy of the Fine Arts leadership board
 
 ## 📫 Contact
 
-No social media accounts but please use the [contact form on my personal website](https://www.joshuamummertstern.com) then I'll be sure to follow up!
+No social media accounts but please use the [contact form on my personal website](https://www.joshuamummertstern.com) to reach out then I'll be sure to follow up!
 
 ## 🛠️ Languages
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
