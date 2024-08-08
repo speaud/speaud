@@ -37,15 +37,6 @@ Hello World, thanks for stopping by! Based out of Philly here. I consider myself
   <img height=75 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=go-runtime-env&theme=radical" />
 </a>
 
-## 🥳 Fun Facts
-1. Former NCAA and FILA All-American and Academic All-American in Men's Wrestling
-2. Big fan of fly-fishing
-3. Member of the Pennsylvania Academy of the Fine Arts leadership board
-
-## 📫 Contact
-
-No social media accounts but please use the [contact form on my personal website](https://www.joshuamummertstern.com) to reach out then I'll be sure to follow up!
-
 ## 🛠️ Languages
 ![](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -65,6 +56,15 @@ No social media accounts but please use the [contact form on my personal website
 3. [Code for Philly](https://codeforphilly.org/projects/philadelphia_lawyers_for_social_equity_-_record_expungement)
 4. [CodePen](https://codepen.io/speaud)
 5. [DockerHub](https://hub.docker.com/u/spudworksdevshop)
+
+## 🥳 Fun Facts
+1. Former NCAA and FILA All-American and Academic All-American in Men's Wrestling
+2. Big fan of fly-fishing
+3. Member of the Pennsylvania Academy of the Fine Arts leadership board
+
+## 📫 Contact
+
+No social media accounts but please use the [contact form on my personal website](https://www.joshuamummertstern.com) to reach out then I'll be sure to follow up!
 
 ## 🌱 Currently Playing With
 1. Topology as code, Docs as Code, and the automation of the respective processes such as converting TypeScript models to UML markup
