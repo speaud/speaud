@@ -28,13 +28,13 @@ Hello World, thanks for stopping by! Based out of Philly here. I consider myself
 ## 🥇 Pinned Repos
 
 <a href="https://github.com/speaud/vanilla-node-http-server">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=vanilla-node-http-server&theme=radical" />
+  <img height=75 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=vanilla-node-http-server&theme=radical" />
 </a>
 <a href="https://github.com/speaud/jupyter-runtime-template">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=jupyter-runtime-template&theme=radical" />
+  <img height=75 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=jupyter-runtime-template&theme=radical" />
 </a>
 <a href="https://github.com/speaud/go-runtime-env">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=go-runtime-env&theme=radical" />
+  <img height=75 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speaud&repo=go-runtime-env&theme=radical" />
 </a>
 
 ## 🥳 Fun Facts
