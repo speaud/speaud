@@ -68,8 +68,6 @@ No social media accounts but please use the [contact form on my personal website
 
 ## 🌱 Currently Playing With
 1. Topology as code, Docs as Code, and the automation of the respective processes such as converting TypeScript models to UML markup
-2. Time series forecasting
-    1. Determining optiomal p,d,q parameters for ARIMA models (seasonal and nonseasonal)
 1. Using Go on the data enginnering/science side 🤕
     1. Playing with [gophernotes](https://github.com/gopherdata/gophernotes) in place of Juypter Python notebooks
     1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
