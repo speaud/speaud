@@ -21,7 +21,7 @@ if widget "broken" see https://github.com/anuraghazra/github-readme-stats?tab=re
 
 ## 👋 About
 
-Hello World, thanks for stopping by! Based out of Philly here. I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
+Hello World, thanks for stopping by! Based out of Philly here. I consider myself a very lucky, civic-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
 
 ## 🥇 Pinned Repos
 
