@@ -44,10 +44,13 @@ Hello World, thanks for stopping by! Based out of Philly here. I consider myself
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=Haskell)
+
 ![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
+
 ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
 ## 🖇️ Links
