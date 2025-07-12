@@ -19,8 +19,6 @@ if widget "broken" see https://github.com/anuraghazra/github-readme-stats?tab=re
 
 -->
 
-![streakStats](https://github-readme-streak-stats.herokuapp.com/?user=speaud&show_icons=true&locale=en&theme=radical)
-
 ## 👋 About
 
 Hello World, thanks for stopping by! Based out of Philly here. I consider myself a very lucky, business-minded software engineer who has had the privilege to work with some very awesome people. Nowadays, I aim to build upon those experiences while continuously improving every day, in some way while mastering my craft.
@@ -74,6 +72,10 @@ No social media accounts but please use the [contact form on my personal website
 1. Using Go on the data enginnering/science side 🤕
     1. Playing with [gophernotes](https://github.com/gopherdata/gophernotes) in place of Juypter Python notebooks
     1. Swaping out Pandas with [gota](https://github.com/go-gota/gota)
+
+## 🔭 Streak Stats
+
+![streakStats](https://github-readme-streak-stats.herokuapp.com/?user=speaud&show_icons=true&locale=en&theme=radical)
 
 <!--
 
