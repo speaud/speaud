@@ -52,11 +52,12 @@ Hello World, thanks for stopping by! Based out of Philly here. I consider myself
 ![](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
 ## 🖇️ Links
-1. [GitHub Gists](https://gist.github.com/speaud)
-2. [Personal Website](http://joshuamummert.com/)
-3. [Code for Philly](https://codeforphilly.org/projects/philadelphia_lawyers_for_social_equity_-_record_expungement)
-4. [CodePen](https://codepen.io/speaud)
+1. [Personal Website](http://joshuamummert.com/)
+2. [Crunchbase](https://www.crunchbase.com/person/joshua-mummert-stern)
+3. [CodePen](https://codepen.io/speaud)
+4. [Code for Philly](https://codeforphilly.org/projects/philadelphia_lawyers_for_social_equity_-_record_expungement)
 5. [DockerHub](https://hub.docker.com/u/spudworksdevshop)
+6. [GitHub Gists](https://gist.github.com/speaud)
 
 ## 🥳 Fun Facts
 1. Former NCAA and FILA All-American and Academic All-American in Men's Wrestling
